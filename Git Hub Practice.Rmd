@@ -1,0 +1,13 @@
+---
+title: "Git Hub Practice"
+author: "Lucy Grochulska"
+date: "10/29/2019"
+output: html_document
+---
+
+Testing committing 
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
